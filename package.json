@@ -1,0 +1,21 @@
+{
+  "name": "liberating-structures-icons",
+  "version": "0.1.0",
+  "description": "A collection of high quality icons used for liberating structures.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfastnacht/liberating-structures-icons.git"
+  },
+  "keywords": [
+    "liberating",
+    "structures",
+    "svn",
+    "icons"
+  ],
+  "author": "Julian Fastnacht <julian@fastnacht.it>",
+  "license": "CC-BY-NC-3.0",
+  "bugs": {
+    "url": "https://github.com/jfastnacht/liberating-structures-icons/issues"
+  },
+  "homepage": "https://github.com/jfastnacht/liberating-structures-icons"
+}
